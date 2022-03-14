@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "veuEkyD",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "Paul",
+  "listed": true,
+  "name": "trash_paul\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "Paul"
+    },
+    "lastModifiedOn": 1647269551831
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "Paul"
+    },
+    "lastModifiedOn": 1647269551831
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
